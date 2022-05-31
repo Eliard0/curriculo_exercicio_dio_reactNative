@@ -1,3 +1,3 @@
 # curriculo---exerciciu-dio
 
-#exercio da dio com react-native 
+#exercicio da dio com react-native 
